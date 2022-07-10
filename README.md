@@ -3,15 +3,15 @@
 - 🌱 I’m currently learning Automation Testing
 - 💞️ I’m looking to work on Testing field
 - 📫 How to reach me hent.claudia@gmail.com
-- 🤙 ... or by phone at +40 786 477 478
 
-##About the project
+
+## About the project
 
 This course completion project analyzed one of the top-tier flight searching engines willing to apply the manual testing knowledge on the attended course.
 
 It was required to build a testing strategy, which includes testing scenarios, test suites, and bug reporting.
 
-##User Stories
+## User Stories
 The project consists of 8 User Stories (US) available for the project, divided into two development sprints.
 
 - 📗 - [ICHM-1](MomondoWebsiteProject/ICHM-1/user-story-ICHM-1.pdf) - Homepage
@@ -24,7 +24,7 @@ The project consists of 8 User Stories (US) available for the project, divided i
 - 📗 - [ICHM-11](MomondoWebsiteProject/ICHM-11/user-story-ICHM-11.pdf) - API Search Airport Endpoint
 
 
-##Test Cases
+## Test Cases
 To cover all of the US number of 14 Test Cases (TC) were created and executed.
 
 - 🧪 - [T1](MomondoWebsiteProject/ICHM-1/test-case-ICHM-T1.pdf) - Homepage - Sidebar menu and basic Homepage testing
@@ -43,7 +43,7 @@ To cover all of the US number of 14 Test Cases (TC) were created and executed.
 - 🧪 - [T14](MomondoWebsiteProject/ICHM-11/test-case-ICHM-T14.pdf) - Search Airport API Endpoint
 
 
-##Bugs Found
+## Bugs Found
 Following execution, there were reported 4 defects with low and medium severity. 
 
 - 🐞 - [ICHM-12](MomondoWebsiteProject/ICHM-1/bug-report-ICHM-12.pdf) - Incorrect social media links
@@ -51,13 +51,13 @@ Following execution, there were reported 4 defects with low and medium severity.
 - 🐞 - [ICHM-14](MomondoWebsiteProject/ICHM-4/bug-report-ICHM-14.pdf) - First result container is not aligned properly
 - 🐞 - [ICHM-15](MomondoWebsiteProject/ICHM-4/bug-report-ICHM-15.pdf) - Show More results button text is misaligned
 
-##Testing Techniques used
+## Testing Techniques used
 The following testing techniques were used:
 - Black-Box testing
 - Performance Testing
 - Change-related Testing
 
-##Tools used
+## Tools used
 - Atlassian Jira (https://jira.atlassian.com/)
 - Zephyr Scale - Test Management for Jira (https://marketplace.atlassian.com/apps/1213259/zephyr-scale-test-management-for-jira?tab=overview&hosting=cloud)
 - Better PDF Exporter for Jira (https://marketplace.atlassian.com/apps/5167/better-pdf-exporter-for-jira?hosting=cloud&tab=overview)
